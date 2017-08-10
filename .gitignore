@@ -7,3 +7,4 @@ elasticsearch/snapshots
 chromedriver/auth.txt
 *.swp
 *.swo
+check-configurator
